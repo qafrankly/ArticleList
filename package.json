@@ -1,6 +1,6 @@
 {
   "thumbnail": "https://modules-qa.franklyinc.com/assets/Card/icon_stroke_weather_subscribemodule.svg",
-  "tag": "nadia",
+  "tag": 1 ,
   "affiliates":["wnow"],
   "propTypes": {
     "title": "PropTypes.string",
